@@ -1,0 +1,175 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+h5{
+	text-align: center;
+	margin: 60px 0px 8px 0px;
+	color:#00d0ff;
+}
+h3{
+	text-align: center;
+	font-size: 40px;
+	color: #4f4a4a;
+}
+
+.container-one{
+	width: 1000px;
+	height: 300px;
+	padding: 60px 0px 0px 150px;
+
+}
+.mno{
+	width:33.33%;
+	float: left;
+}
+.mno img{
+	width: 100px ;
+	height: 70px;
+	padding: 20px 0px 0px 120px;
+}
+.mno h2{
+	font-size: 20px;
+	text-align:center;
+	margin: 8px;
+}
+.mno p{
+	text-align: center;
+	font-size: 16px;
+	color: #6d6a6a;
+}
+
+.container-two{
+	height: 200px;
+	width: 100%;
+	background-color: #000002;
+	margin: -80px 20px 0px 0px;
+}
+.pqr{
+	width: 33.33%;
+	float: left;
+	
+}
+.pqr i{
+	padding: 20px 0px 0px 210px;
+}
+
+.fa.fa-commenting-o{
+	font-size: 25px;
+	color: white;
+
+}
+.fa.fa-user-circle-o{
+	font-size: 25px;
+	color: white;
+}
+.fa.fa-github{
+	font-size: 25px;
+	color: white;
+}
+
+.pqr h2{
+	text-align: center;
+	font-size: 20px;
+	margin: 12px;
+	color: white;
+}
+.pqr p{
+	text-align: center;
+	font-size: 14px;
+	color:#c6c4c4f5;;
+}
+
+
+.container-three{
+	height: 750px;
+	width: 100%;
+	background: #e8e3e3a3;
+}
+.uvw{
+	float: left;
+	width: 50%;
+
+}
+.uvw h6{
+	padding: 180px 0px 0px 170px ;
+	color: #0ac5fd;
+	font-size: 15px;
+}
+.uvw h1{
+	padding: 10px 0px 0px 170px;
+	font-size: 37px;
+	color:#381717;
+	font-family: 'Bree Serif', serif;
+	font-family: 'Cormorant Garamond', serif;
+}
+.uvw p{
+	padding: 15px 0px 0px 170px;
+	color: #374839
+}
+.uvw button{
+	margin: 15px 0px 0px 170px;
+	padding: 9px 15px;
+	background: #309c29;
+	color: white;
+	border-radius: 12px;
+    font-size: 12px;
+    box-shadow: 6px 5px 9px 1px #5a5555f7;
+    border: 0px;
+	
+}
+.uvw button:hover{
+	background-color: black;
+}
+
+.xyz{
+	width: 50%;
+	float: left;
+
+	box-sizing: border-box;
+	margin: 90px 0px -80px 0px;
+
+}
+.xyz img{
+
+padding: 25px 0px 0px 0px;
+
+border-radius: 50px;
+
+max-width: 100%;
+
+height: 150px;
+
+width: 50%;
+
+box-shadow: 4px 4px 8px #c7c5c5;
+}
+.xyz img:hover{
+    box-shadow: -4px -4px 11px #8e8e94;
+}
+.container-four{
+	height: 250px;
+	width: 100%;
+	background-color: #202023;
+}
+
+.abc{
+	width:25%;
+	float: left;
+
+}
+.abc h2{
+	text-align: center;
+	padding: 22px 0px 0px 0px;
+	color: white;
+	
+}
+.abc p{
+	text-align: center;
+	padding: 10px 0px 0px 0px;
+	color: #cec7c7;
+}
+
+	
